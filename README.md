@@ -8,4 +8,5 @@ git clone https://github.com/AnthonyOrtiz/Coding-exercise---Calculate-salary.git
 
 # Run repository
 cd /Coding-exercise---Calculate-salary/
+
 python main.py
